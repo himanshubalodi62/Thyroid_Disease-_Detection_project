@@ -54,7 +54,6 @@ For real-time prediction you can use the above Elastic Beanstalk link
 ![image](https://user-images.githubusercontent.com/102937478/216247497-0d54dd7b-3916-4670-8465-3f1fcf6e0a9a.png)
 
 
-
 ## Data Collections
 
 ![image](https://user-images.githubusercontent.com/102937478/216246951-7c187908-a8b0-4c64-8f37-6549c49e20fa.png)
@@ -193,6 +192,8 @@ sudo sh get-docker.sh
 sudo usermod -aG docker ubuntu
 newgrp docker
 ```
+
+
 
 **Secrets**
 ```
