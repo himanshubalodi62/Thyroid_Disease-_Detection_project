@@ -31,27 +31,17 @@ learning algorithms that’s best fit for the above case.
 3. AWS ECR
 4. Github Actions
 5. Airflow
-6. AWS Elastic Beanstalk
+
 
 ## How to run?
 Before we run the project, make sure that you are having MongoDB in your local system, with Compass since we are using MongoDB for data storage. You also need AWS account to access the service like S3, ECR and EC2 instances.
 
-For real-time prediction you can use the above Elastic Beanstalk link 
-## Data Collections
-![image](https://user-images.githubusercontent.com/102937478/216246951-7c187908-a8b0-4c64-8f37-6549c49e20fa.png)
-
-
-## Project Archietecture
-![image](https://user-images.githubusercontent.com/102937478/216757352-0d9a4c4c-b0c3-43c1-9bf8-92ee9a6df352.png)
+ 
 
 
 
 
 
-
-## Deployment Archietecture
-
-![image](https://user-images.githubusercontent.com/102937478/216247497-0d54dd7b-3916-4670-8465-3f1fcf6e0a9a.png)
 
 
 ## Data Collections
