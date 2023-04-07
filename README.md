@@ -96,7 +96,7 @@ export MONGODB_URL="mongodb+srv://himanshu:himanshu12345@ineuron.fpig7r5.mongodb
 
 ### Step 5 - Run the application server
 ```bash
-python main.py
+python app.py
 ```
 
 
@@ -158,10 +158,6 @@ git commit -m "Message"
 git push origin main
 ```
 
-### To run jupyter-notebook in vscode
-```
- pip install ipykernel
-```
 
 ### **To create a new environment in vscode** 
 ```
