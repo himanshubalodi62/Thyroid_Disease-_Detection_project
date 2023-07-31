@@ -2,10 +2,13 @@
 
 
 <img src="https://www.betterhealthclinic.ca/wp-content/uploads/2019/01/Thyroid-768x691.jpg" width="500" height="300"/>
+
 ## Problem Statement
 Thyroid disease is a common cause of medical diagnosis and prediction, with an onset that is difficult to forecast in medical research. The thyroid gland is one of our body's most vital organs. Thyroid hormone releases are responsible for metabolic regulation. Hyperthyroidism and hypothyroidism are one of the two common diseases of the thyroid that releases thyroid hormones in regulating the rate of body's metabolism.
 
 The main goal is to predict the estimated risk on a patient's chance of obtaining thyroid disease or not.
+
+
 
 ## Solution Proposed 
 We need to build a ML model which will be used by hospitals and help the hospital authority to identify if the patient has thyroid or not. If it is a positive case then medical will do further test to know what type of thyroid the person is suffering from and according to that the treatment will be on fast-track.
